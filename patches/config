@@ -1,0 +1,6 @@
+Host github.com  
+User evans_gao@foxmail.com
+Hostname ssh.github.com  
+PreferredAuthentications publickey  
+IdentityFile ~/.ssh/id_rsa  
+Port 443

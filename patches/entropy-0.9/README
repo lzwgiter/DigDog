@@ -1,0 +1,23 @@
+
+                                -=} Entropy {=-
+                            Fast entropy calculation
+
+
+This library provides a method implemented in C for calculating the shannon
+entropy[1] of a bytestring.
+
+usage:
+
+    import entropy
+    entropy.shannon_entropy('data')
+
+
+AUTHORS & CONTRIBUTORS:
+
+Martin Natano <natano@natano.net>
+
+Please follow PEP 8[2] when submitting patches/pull requests.
+
+
+[1] http://en.wiktionary.org/wiki/Shannon_entropy
+[2] http://www.python.org/dev/peps/pep-0008/
